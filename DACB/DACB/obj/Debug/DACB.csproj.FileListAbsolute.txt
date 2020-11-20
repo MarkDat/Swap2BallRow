@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2013\Projects\DACB\DACB\bin\Debug\DACB.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\DACB\DACB\bin\Debug\DACB.exe
+c:\users\pc\documents\visual studio 2013\Projects\DACB\DACB\bin\Debug\DACB.pdb
+c:\users\pc\documents\visual studio 2013\Projects\DACB\DACB\obj\Debug\DACB.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\DACB\DACB\obj\Debug\DACB.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\DACB\DACB\obj\Debug\DACB.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\DACB\DACB\obj\Debug\DACB.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\DACB\DACB\obj\Debug\DACB.exe
+c:\users\pc\documents\visual studio 2013\Projects\DACB\DACB\obj\Debug\DACB.pdb
